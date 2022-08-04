@@ -1,0 +1,15 @@
+.card-header{
+    color:#337AB7;
+    background-color: #eee;
+    height: 30px;
+    width: 150px;
+}
+#title{
+    margin-left: 30px;
+}
+.col-md-5{
+    margin-left: 10px;
+}
+#con{
+    margin-left: 50px;
+}
